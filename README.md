@@ -1,1 +1,3 @@
-# udemy-langchain
+#udemy-langchain
+
+LangChainを使ったサンプルアプリケーション
